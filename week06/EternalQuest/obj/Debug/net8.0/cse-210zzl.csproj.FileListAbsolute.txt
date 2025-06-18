@@ -1,0 +1,14 @@
+D:\cse-210zzl\bin\Debug\net8.0\cse-210zzl.exe
+D:\cse-210zzl\bin\Debug\net8.0\cse-210zzl.deps.json
+D:\cse-210zzl\bin\Debug\net8.0\cse-210zzl.runtimeconfig.json
+D:\cse-210zzl\bin\Debug\net8.0\cse-210zzl.dll
+D:\cse-210zzl\bin\Debug\net8.0\cse-210zzl.pdb
+D:\cse-210zzl\obj\Debug\net8.0\cse-210zzl.GeneratedMSBuildEditorConfig.editorconfig
+D:\cse-210zzl\obj\Debug\net8.0\cse-210zzl.AssemblyInfoInputs.cache
+D:\cse-210zzl\obj\Debug\net8.0\cse-210zzl.AssemblyInfo.cs
+D:\cse-210zzl\obj\Debug\net8.0\cse-210zzl.csproj.CoreCompileInputs.cache
+D:\cse-210zzl\obj\Debug\net8.0\cse-210zzl.dll
+D:\cse-210zzl\obj\Debug\net8.0\refint\cse-210zzl.dll
+D:\cse-210zzl\obj\Debug\net8.0\cse-210zzl.pdb
+D:\cse-210zzl\obj\Debug\net8.0\cse-210zzl.genruntimeconfig.cache
+D:\cse-210zzl\obj\Debug\net8.0\ref\cse-210zzl.dll
