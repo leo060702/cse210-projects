@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cse-210zzl\\cse-210zzl.csproj",
-      "projectName": "cse-210zzl",
-      "projectPath": "D:\\cse-210zzl\\cse-210zzl.csproj",
+      "projectUniqueName": "D:\\cse210-projects\\week06\\EternalQuest\\EternalQuest.csproj",
+      "projectName": "EternalQuest",
+      "projectPath": "D:\\cse210-projects\\week06\\EternalQuest\\EternalQuest.csproj",
       "packagesPath": "C:\\Users\\zzl06\\.nuget\\packages\\",
-      "outputPath": "D:\\cse-210zzl\\obj\\",
+      "outputPath": "D:\\cse210-projects\\week06\\EternalQuest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

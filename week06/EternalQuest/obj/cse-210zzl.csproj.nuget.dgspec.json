@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cse-210zzl\\cse-210zzl.csproj": {}
+    "D:\\cse210-projects\\week06\\EternalQuest\\cse-210zzl.csproj": {}
   },
   "projects": {
-    "D:\\cse-210zzl\\cse-210zzl.csproj": {
+    "D:\\cse210-projects\\week06\\EternalQuest\\cse-210zzl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cse-210zzl\\cse-210zzl.csproj",
+        "projectUniqueName": "D:\\cse210-projects\\week06\\EternalQuest\\cse-210zzl.csproj",
         "projectName": "cse-210zzl",
-        "projectPath": "D:\\cse-210zzl\\cse-210zzl.csproj",
+        "projectPath": "D:\\cse210-projects\\week06\\EternalQuest\\cse-210zzl.csproj",
         "packagesPath": "C:\\Users\\zzl06\\.nuget\\packages\\",
-        "outputPath": "D:\\cse-210zzl\\obj\\",
+        "outputPath": "D:\\cse210-projects\\week06\\EternalQuest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
