@@ -1,0 +1,15 @@
+D:\cse210-projects\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.exe
+D:\cse210-projects\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.deps.json
+D:\cse210-projects\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.runtimeconfig.json
+D:\cse210-projects\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.dll
+D:\cse210-projects\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.pdb
+D:\cse210-projects\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+D:\cse210-projects\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfoInputs.cache
+D:\cse210-projects\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfo.cs
+D:\cse210-projects\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.csproj.CoreCompileInputs.cache
+D:\cse210-projects\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.sourcelink.json
+D:\cse210-projects\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.dll
+D:\cse210-projects\week07\ExerciseTracking\obj\Debug\net8.0\refint\ExerciseTracking.dll
+D:\cse210-projects\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.pdb
+D:\cse210-projects\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.genruntimeconfig.cache
+D:\cse210-projects\week07\ExerciseTracking\obj\Debug\net8.0\ref\ExerciseTracking.dll
